@@ -1,0 +1,6 @@
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\RetailItemMarkups\RetailItemMarkups\bin\Debug\RetailItemMarkups.exe.config
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\RetailItemMarkups\RetailItemMarkups\bin\Debug\RetailItemMarkups.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\RetailItemMarkups\RetailItemMarkups\bin\Debug\RetailItemMarkups.pdb
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\RetailItemMarkups\RetailItemMarkups\obj\Debug\RetailItemMarkups.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\RetailItemMarkups\RetailItemMarkups\obj\Debug\RetailItemMarkups.exe
+C:\Users\Amanda\Desktop\HD\02 School\MSSA Cloud Developer\C# Programs\RetailItemMarkups\RetailItemMarkups\obj\Debug\RetailItemMarkups.pdb
